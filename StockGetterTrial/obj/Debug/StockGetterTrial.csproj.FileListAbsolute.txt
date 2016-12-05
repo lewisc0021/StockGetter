@@ -1,0 +1,6 @@
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\bin\Debug\StockGetterTrial.exe.config
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\obj\Debug\StockGetterTrial.csprojResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\bin\Debug\StockGetterTrial.exe
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\bin\Debug\StockGetterTrial.pdb
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\obj\Debug\StockGetterTrial.exe
+c:\users\lewis\documents\visual studio 2015\Projects\StockGetterTrial\StockGetterTrial\obj\Debug\StockGetterTrial.pdb
